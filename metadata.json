@@ -1,0 +1,6 @@
+{
+  "name": "Job Board API Workspace",
+  "description": "Production-grade Fastify job board API with Swagger documentation, sliding rate limits, Prisma database explorer, and interactive Jest test console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
